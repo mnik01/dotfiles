@@ -1,2 +1,2 @@
-Repo that contains my .dot files with settings and configs
+### Repo that contains my .dot files with settings and configs
 
